@@ -2,3 +2,7 @@ kaggle_config/
 kaggle_data/
 output/
 AntiMoneyLaunderingDetector.py
+dataset/HI-Medium_Patterns.txt
+dataset/HI-Medium_Trans.csv
+dataset/LI-Medium_Patterns.txt
+dataset/LI-Medium_Trans.csv
